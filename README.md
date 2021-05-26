@@ -1,4 +1,4 @@
-# Atari 2600 Rom dumper
+# Atari 2600 ROM dumper
 
 If you have an old Atari 2600 cartridge and want to play it on your computer using an emulator, you'll need to download that game from the cartridge memory into a ROM file. This process is usually called "ROM dumping". 
 
