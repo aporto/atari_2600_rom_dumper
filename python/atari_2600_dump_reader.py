@@ -20,10 +20,13 @@ def dumpDataFromPort(port):
     while True:
         line = port.readline().decode("ascii").strip()
         print(line)
-        if "+++" in line:
-            break
+        
         if "***" in line:
             continue
+            
+        if "+++" in line:
+            break
+                
         if len(line) == "":
             continue
 
