@@ -4,4 +4,4 @@ If you have an old Atari 2600 cartridge and want to play it on your computer usi
 
 This is probably the simplest and easiest circuit you can make to download an Atari game from the cartridge. It uses only an Arduino board.
 
-You can check the project details at [https://dalpix.com/atari-2600-rom-dumper-using-arduino]
+You may check the project details at [https://dalpix.com/atari-2600-rom-dumper-using-arduino]
